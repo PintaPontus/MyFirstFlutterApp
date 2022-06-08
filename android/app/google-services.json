@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892741031223",
+    "firebase_url": "https://angulartest-55eea-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "angulartest-55eea",
+    "storage_bucket": "angulartest-55eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892741031223:android:7929d6a5ec65c6649176b2",
+        "android_client_info": {
+          "package_name": "com.pintapontus.my_first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892741031223-h57oahhdqh7msog3f48ov827enlaj0eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXA-0n5EGO6ST5quk2xNPRGwMQmoZyVNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892741031223-h57oahhdqh7msog3f48ov827enlaj0eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892741031223-vjmulk1o9kppn8pj2v058g0po9icdakd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pintapontus.myFirstApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
